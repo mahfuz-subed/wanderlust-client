@@ -4,11 +4,8 @@ Wanderlust is a travel platform that allows users to explore destinations, disco
 
 ## Live Demo
 
-[Visit Wanderlust](YOUR_LIVE_WEBSITE_URL)
+(https://wanderlust-client-beta.vercel.app/)
 
-## Project Screenshot
-
-![Wanderlust Homepage](./public/screenshot.png)
 
 ## Technologies Used
 
